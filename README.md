@@ -1,4 +1,4 @@
 # livvyaaa.github.io
-My About Me website.
+My about me website.
 
 Too lazy to create multiple html pages so here you go.
